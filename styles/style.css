@@ -187,6 +187,7 @@ address {
     position: relative;
     top: 180px;
     left: 65px;
+    width: 130px;
 }
 
 .lots__card-list {
