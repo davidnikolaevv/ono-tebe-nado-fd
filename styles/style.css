@@ -187,10 +187,10 @@ address {
     display: flex;
     width: 1100px;
     list-style: none;
-    justify-content: space-evenly;
     flex-wrap: wrap;
-    gap: 1px;
+    gap: 24px;
     margin-top: 27px;
+    padding-left: 25px;
 }
 
 .lots__card-list-item {
